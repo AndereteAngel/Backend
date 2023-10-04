@@ -89,5 +89,3 @@ try {
 } catch (error) {
     console.error("Error al buscar producto por ID:", error.message);
 }
-
-
